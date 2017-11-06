@@ -4,6 +4,8 @@ In this project, we'll create choropleth maps to price estimates of Uber rides i
 
 To do this project, we used the python language with the folium library.
 
+Explanatory video: [https://www.youtube.com/watch?v=6PHN0GQsPgk](https://www.youtube.com/watch?v=6PHN0GQsPgk)
+
 
 # Contributors
 
